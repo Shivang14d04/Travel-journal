@@ -46,9 +46,3 @@ Then open your browser at [http://localhost:5173](http://localhost:5173)
 ---
 
 
-
----
-
-## 📜 License
-
-This project is for learning purposes and not licensed for commercial use.

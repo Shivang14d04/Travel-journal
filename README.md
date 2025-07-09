@@ -23,23 +23,7 @@ A simple travel journal web app built using **React** and **Vite**. It showcases
 - Text line clamping for clean summaries
 - Fully responsive structure
 
----
 
-## 📁 Project Structure
-
-```
-src/
-├── components/
-│   ├── Header.jsx
-│   └── Entry.jsx
-├── data.js
-├── App.jsx
-├── main.jsx
-├── index.css
-public/
-└── images/
-    └── globe.png
-```
 
 ---
 

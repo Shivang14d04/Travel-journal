@@ -1,6 +1,6 @@
 # ✈️ Travel Journal
 
-A simple travel journal web app built using **React** and **Vite**. It showcases travel destinations using reusable components and static data. Built as part of the Scrimba React course to strengthen component-based thinking and props usage.
+A simple travel journal web app built using **React** and **Vite**. It showcases travel destinations using reusable components and static data. Clicking on the ggogle maps link will take you to the exact location on google maps .
 
 ![app screenshot](public/Screenshot/app_image.png) 
 ---

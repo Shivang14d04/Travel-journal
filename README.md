@@ -2,7 +2,7 @@
 
 A simple travel journal web app built using **React** and **Vite**. It showcases travel destinations using reusable components and static data. Built as part of the Scrimba React course to strengthen component-based thinking and props usage.
 
-(public/Screenshot/app_image.png) 
+![app screenshot](public/Screenshot/app_image.png) 
 ---
 
 ## 🛠 Tech Stack
